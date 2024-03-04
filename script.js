@@ -24,7 +24,7 @@ btn.addEventListener('click',function(){
     if(BMI>=18.5 && BMI<25){
         status="Healthy";
     }
-    if(BMI>=30){
+    if(BMI>=25){
         status="Obese";
     }
 
