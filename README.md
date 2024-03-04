@@ -1,3 +1,3 @@
 # BMI-Calculator
 
-![Screenshot](bmi1.jpg)
+![Screenshot](BMI SS.png)
