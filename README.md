@@ -13,7 +13,9 @@ Clean UI: Minimalist and user-friendly design.
 
 🛠️ Technologies Used
 `HTML5:` For the structure and layout.
+
 `CSS3:` For styling and responsive design.
+
 `JavaScript:` For dynamic interactions and calculations.
 ## Screenshots 📸
 ![Screenshot](bmiss.jpg)
