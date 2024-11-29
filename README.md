@@ -12,6 +12,7 @@ Responsive Design: Works well on desktop and mobile devices.
 Clean UI: Minimalist and user-friendly design.
 
 🛠️ Technologies Used
+
 `HTML5:` For the structure and layout.
 
 `CSS3:` For styling and responsive design.
